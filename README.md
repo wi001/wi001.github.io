@@ -1,7 +1,6 @@
 # wi001.github.io
 
-Personal page served at **https://wi001.github.io** — a stable link for paper attribution.
+Forwards to **https://williamisaksson.com**, William Isaksson's site. This address was linked
+from a paper for attribution, so it stays and sends visitors on.
 
-Single static file: `index.html` (no build step). Edit it and `git push` to update;
-GitHub Pages redeploys automatically. Look for `EDIT:` comments in `index.html` for
-the spots to add a role/affiliation, ORCID, or a link to the paper.
+The site itself lives in a private repository, `wi001/williamisaksson.com`.
